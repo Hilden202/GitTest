@@ -1,0 +1,14 @@
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/bin/Debug/net8.0/GitTest
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/bin/Debug/net8.0/GitTest.deps.json
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/bin/Debug/net8.0/GitTest.runtimeconfig.json
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/bin/Debug/net8.0/GitTest.dll
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/bin/Debug/net8.0/GitTest.pdb
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.AssemblyInfoInputs.cache
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.AssemblyInfo.cs
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.csproj.CoreCompileInputs.cache
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.dll
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/refint/GitTest.dll
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.pdb
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.genruntimeconfig.cache
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/ref/GitTest.dll
