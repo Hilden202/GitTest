@@ -12,3 +12,4 @@
 /Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.pdb
 /Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.genruntimeconfig.cache
 /Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/ref/GitTest.dll
+/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/Debug/net8.0/GitTest.sourcelink.json
