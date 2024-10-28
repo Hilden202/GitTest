@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest.csproj": {}
+    "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest/GitTest.csproj": {}
   },
   "projects": {
-    "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest.csproj": {
+    "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest/GitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest.csproj",
+        "projectUniqueName": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest/GitTest.csproj",
         "projectName": "GitTest",
-        "projectPath": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest.csproj",
+        "projectPath": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest/GitTest.csproj",
         "packagesPath": "/Users/patrikhildenborg/.nuget/packages/",
-        "outputPath": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/obj/",
+        "outputPath": "/Users/patrikhildenborg/Desktop/Patrik/System24/Kod/CodeAlong/GitTest/GitTest/GitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/patrikhildenborg/.nuget/NuGet/NuGet.Config"
